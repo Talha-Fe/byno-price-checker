@@ -25,4 +25,4 @@ Taban fiyatınızı belirleyin. <br>
 # Subject to change
 
 Uygulama şuan optimize değildir API hatası almamak için optimize edilebilir. <br>
-Konsolda item bulduğunda herhangi bir ses çıkartma özelli eklenebilir.
+Konsolda item bulduğunda herhangi bir ses çıkartma özelliği eklenebilir.
