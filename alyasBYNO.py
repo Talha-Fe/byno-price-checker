@@ -7,6 +7,9 @@ import requests
 from datetime import datetime
 from dotenv import load_dotenv
 
+#Over %70 of this project is made by AI due to some troubles that I couldn't solve about ByNo's API system.
+#So it may have some bugs or unresolved problems.
+
 try:
     import msvcrt
 except:
@@ -523,4 +526,5 @@ if __name__ == "__main__":
         main()
     except Exception as e:
         print("CRASH:", e)
+
         input()
