@@ -11,7 +11,7 @@ Normal durumlarda DOTA2, CS2, RUST ve TF2 için çalışması lazım fakat şuan
 
 # İndirme
 
-Son versiyonu <a href="https://github.com/Talha-Fe/byno-api-price-checker/releases/latest">buradan</a> indirebilirsiniz.
+Son versiyonu <a href="https://github.com/Talha-Fe/byno-price-checker/releases/latest">buradan</a> indirebilirsiniz.
 
 # Kullanım talimatları
 
